@@ -20,6 +20,12 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Get in touch
+<p>
+  <a href="https://www.linkedin.com/in/qiuyang-zhang-489743196/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <!--
 **CharlieZhang1999/CharlieZhang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
