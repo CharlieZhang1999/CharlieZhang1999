@@ -31,6 +31,9 @@
   </a>
  
 </p>
+
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=CharlieZhang1999&repo=github-visitors-badge&labelColor=%23dce775&countColor=%23697689)
 <!--
 **CharlieZhang1999/CharlieZhang1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
